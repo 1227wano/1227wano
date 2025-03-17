@@ -1,10 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=Hello!%20I'm%20Wanho&fontSize=90" />
-<br>
+<img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=250&section=header&text=Hello!%20I'm%20Wanho&fontSize=90" />
 <br>
 <br>
 
 <h2 align="center">
-  안녕하세요! 백엔드 개발자 채완호입니다.
+  안녕하세요! 끊임없이 변화해가는 백엔드 개발자 채완호입니다.
 </h2>
 
 <br>
