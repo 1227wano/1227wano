@@ -11,9 +11,9 @@
 
 <div align="center">
   
-  💻 KH정보교육원 (디지털컨버전스) 공공데이터 융합 JAVA개발자 양성과정A <br>
-  🎓 고려대학교 일어일문학과 졸업 <br>
-  🎓 고려대학교 일반대학원 중일어문학과 석사과정 졸업 <br>
+  💻 KH정보교육원 (디지털컨버전스) 공공데이터 융합 JAVA개발자 양성과정A 수료 (2025.02) <br>
+  🎓 고려대학교 일어일문학과 최우수 졸업 (2022.08) <br>
+  🎓 고려대학교 일반대학원 중일어문학과 석사과정 졸업 (2024.08) <br>
 
 </div>
 
@@ -27,7 +27,7 @@
 <div align="center">
   <div align="center">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-0769AD.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
@@ -52,7 +52,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-4D148C.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
