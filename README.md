@@ -10,8 +10,9 @@
 <br>
 
 <div align="center">
-  
-  💻 KH정보교육원 (디지털컨버전스) 공공데이터 융합 JAVA개발자 양성과정A 수료 (2025.02) <br>
+
+  💻 SSAFY 14기 (2025.07 - ) <br>
+  💻 KH정보교육원 공공데이터융합 JAVA개발자 양성과정A 수료 (2024.09 - 2025.02) <br>
   🎓 고려대학교 일어일문학과 최우수 졸업 (2022.08) <br>
   🎓 고려대학교 일반대학원 중일어문학과 석사과정 졸업 (2024.08) <br>
 
@@ -31,7 +32,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![SQL developer](https://img.shields.io/badge/SQL%20developer-0078d7.svg?style=for-the-badge&logo=SQL-developer&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)      
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=TypeScript&logoColor=white)&nbsp;
