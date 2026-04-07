@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=250&section=header&text=Hello!%20I'm%20Wanho&fontSize=90" />
+
 <br>
 <br>
 
@@ -7,7 +8,10 @@
 </h2>
 
 <br>
-<br>
+
+<h3 align="center">
+  <b>Education</b>
+</h3>
 
 <div align="center">
 
@@ -19,7 +23,6 @@
 </div>
 
 <br>
-<br>
 
 <h3 align="center">
   <b>Projects</b>
@@ -30,7 +33,6 @@
   <b><a href="https://github.com/1227wano/Objection">⚖️ 이의있음! (Objection)</a></b> : AI 소상공인 행정심판 보조 서비스 <br>
 </div>
 
-<br>
 <br>
 
 <h3 align="center">
