@@ -97,10 +97,10 @@
 </h3>
 
 <div align="center">
-
-  ![Wano Status](https://github-readme-stats.vercel.app/api?username=1227wano&show_icons=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1227wano&layout=compact&langs_count=6&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=1227wano&show_icons=true" alt="Wano Status" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1227wano&layout=compact&langs_count=6&hide=jupyter%20notebook" alt="Top Langs" />
+  </a>
 </div>
 
 <br>
