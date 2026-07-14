@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=250&section=header&text=Hello!%20I'm%20Wanho&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=250&section=header&text=Hello%20Wanho!&fontSize=90" />
 
 <br>
 <br>
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-  💻 SSAFY 14기 (2025.07 - ) <br>
+  💻 SSAFY 14기 수료(2025.07 - 2026.06) <br>
   💻 KH정보교육원 공공데이터융합 JAVA개발자 양성과정 수료 (2024.09 - 2025.02) <br>
   🎓 고려대학교 일반대학원 중일어문학과 석사과정 졸업 (2024.08) <br>
   🎓 고려대학교 일어일문학과 최우수 졸업 (2022.08) <br>
@@ -29,8 +29,8 @@
 </h3>
 
 <div align="center">
-  <b><a href="https://github.com/1227wano/No-ill">🤖 No-ill</a></b> : 독거노인을 위한 종합 AI 로봇케어 서비스 (우수상 수상🏆) <br>
   <b><a href="https://github.com/1227wano/Objection">⚖️ 이의있음! (Objection)</a></b> : AI 소상공인 행정심판 보조 서비스 <br>
+  <b><a href="https://github.com/1227wano/No-ill">🤖 No-ill</a></b> : 독거노인을 위한 종합 AI 로봇케어 서비스 (우수상 수상🏆) <br>
 </div>
 
 <br>
@@ -42,7 +42,6 @@
 <h4 align="center">Backend</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/java-0769AD.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">&nbsp;
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">&nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white" alt="Spring Boot">&nbsp;
   <img src="https://img.shields.io/badge/jpa-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA">&nbsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">&nbsp;
@@ -83,8 +82,6 @@
 <h4 align="center">Collaboration / Tools</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">&nbsp;
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">&nbsp;
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack">&nbsp;
   <br>
